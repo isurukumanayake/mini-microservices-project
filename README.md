@@ -1,0 +1,1 @@
+This mini microservices project showcases a custom event bus implementation for asynchronous communication between microservices. The project aims to demonstrate a lightweight solution for handling events in a distributed architecture.
